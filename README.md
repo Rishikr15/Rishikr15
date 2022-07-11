@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on development
-- 📫 How to reach me https://twitter.com/rishi_kumar01
+- 📫 How to reach me https://twitter.com/rishikr_eth
 
 <!---
 Rishikr15/Rishikr15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
