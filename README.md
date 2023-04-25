@@ -12,14 +12,13 @@
 
 - 📫 How to reach me **www.twitter.com/rishikr_twt**
 
-<h3 align="centre">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rishikumar.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rishikumar.hashnode.dev" height="30" width="40" /></a>
+<a href="https://dev.to/www.hashnode.com/@rishikr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="www.hashnode.com/@rishikr" height="30" width="40" /></a>
 <a href="https://twitter.com/www.twitter.com/rishikr_twt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="www.twitter.com/rishikr_twt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/rishikr-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rishikr-in" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/rishikumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rishikumar15" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rishikr_ig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rishikr_ig/" height="30" width="40" /></a>
-<a href="https://hashnode.com/www.hashnode.com/@rishikr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="www.hashnode.com/@rishikr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
