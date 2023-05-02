@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Ai automation, Blockchain**
 
-- 📫 How to reach me **www.twitter.com/rishikr_twt**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
