@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikr15&label=Profile%20views&color=0e75b6&style=flat" alt="rishikr15" /> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- /*🌱 I’m currently learning **** */
 
 - 💬 Ask me about **Ai automation, Blockchain**
 
