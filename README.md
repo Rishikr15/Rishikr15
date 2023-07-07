@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning** 
 
-- 💬 Ask me about **Ai,automation, Blockchain,Web Development**
+- 💬 Ask me about **Ai,Analysis, Blockchain,Web Development**
 
 
 
